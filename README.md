@@ -32,11 +32,11 @@ Segmentation revealed three distinct groups: Cluster 2 is the primary profit dri
 - Descriptive Statistics
 
 ## SECTION 4: VISUAL SUGGESTIONS
-- Pie Chart of Fraud Rate: A visual representation showing the proportion of fraud transaction value compared to total transaction value.
-- Elbow Method Plot: A line graph showing the elbow point at k=3 to justify the chosen number of customer segments.
-- Transaction Behavior Bar Chart: A comparison of transaction amounts across different card brands (Mastercard, Visa, Amex, and JCB).
-- DTI Distribution Plot: A visual comparison of Debt-to-Income ratios between retired and non-retired users or across credit score categories.
-- Customer Segment Visualization: A scatter plot or similar visual showing the three clusters formed based on transaction value and risk.
+- *Pie Chart of Fraud Rate* : A visual representation showing the proportion of fraud transaction value compared to total transaction value.
+- *Elbow Method Plot* : A line graph showing the elbow point at k=3 to justify the chosen number of customer segments.
+- *Transaction Behavior Bar Chart* : A comparison of transaction amounts across different card brands (Mastercard, Visa, Amex, and JCB).
+- *DTI Distribution Plot* : A visual comparison of Debt-to-Income ratios between retired and non-retired users or across credit score categories.
+- *Customer Segment Visualization* : A scatter plot or similar visual showing the three clusters formed based on transaction value and risk.
 
 ## Author
 Venny Amilia Deslaweny
