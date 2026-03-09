@@ -32,6 +32,18 @@ Segmentation revealed three distinct groups: Cluster 2 is the primary profit dri
 - Elbow Method 
 - Descriptive Statistics
 
+### Dataset
+The dataset contains credit card customer information and transaction behavior from RevoBank.
+Key variables include:
+- Customer ID
+- Credit Limit
+- Total Transactions
+- Total Transaction Amount
+- Customer Age
+- Income Category
+- Marital Status
+This dataset is used to analyze spending patterns and segment customers into meaningful groups using clustering techniques.
+
 ## SECTION 4: VISUAL SUGGESTIONS
 - *Pie Chart of Fraud Rate* : A visual representation showing the proportion of fraud transaction value compared to total transaction value.
 - *Elbow Method Plot* : A line graph showing the elbow point at k=3 to justify the chosen number of customer segments.
