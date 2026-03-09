@@ -1,5 +1,5 @@
 # Revobank
-## Customer Segmentation
+## Customer Segmentation Analysis
 
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
 ### Summary/Context
@@ -21,8 +21,12 @@ Segmentation revealed three distinct groups: Cluster 2 is the primary profit dri
 ### A. Tools
 - Python 
 - Pandas 
+- NumPy
+- Scikit-learn
+- Matplotlib
 - Google Colab 
-- Google Sheets 
+- Google Sheets
+  
 ### B. Methods
 - Data Cleaning 
 - Data Type Conversion 
@@ -47,6 +51,12 @@ https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
 - A small segment of high-value customers contributes a significant portion of transaction volume.
 - Medium-value customers represent the largest growth opportunity for targeted marketing campaigns.
 - Segmentation enables the bank to design personalized loyalty programs and optimize credit product strategies.
+
+## Business Recommendations
+- Develop targeted loyalty programs for high-value customer segments.
+- Design promotional campaigns aimed at medium-value customers to increase transaction frequency.
+- Offer customized credit card benefits based on customer spending behavior.
+- Use segmentation insights to improve cross-selling opportunities for financial products.
 
 ## Project Files
 This repository contains the following project resources:
