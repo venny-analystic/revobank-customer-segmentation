@@ -1,4 +1,5 @@
-# revobank-customer-segmentation
+# Revobank
+## Customer Segmentation
 
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
 ### Summary/Context
