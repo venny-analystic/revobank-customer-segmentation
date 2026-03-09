@@ -50,13 +50,10 @@ https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
 
 ## Project Files
 This repository contains the following project resources:
-
 - revobank_customer_segmentation.ipynb  
   Python notebook used for data cleaning, clustering, and visualization.
-
 - customer_segmentation_dataset.csv  
   Dataset used for the analysis.
-
 - README.md  
   Project documentation including methodology, analysis, and insights.
   
