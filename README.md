@@ -32,17 +32,8 @@ Segmentation revealed three distinct groups: Cluster 2 is the primary profit dri
 - Elbow Method 
 - Descriptive Statistics
 
-### Dataset
-The dataset contains credit card customer information and transaction behavior from RevoBank.
-Key variables include:
-- Customer ID
-- Credit Limit
-- Total Transactions
-- Total Transaction Amount
-- Customer Age
-- Income Category
-- Marital Status
-This dataset is used to analyze spending patterns and segment customers into meaningful groups using clustering techniques.
+### Dataset Source:
+https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
 
 ## SECTION 4: VISUAL SUGGESTIONS
 - *Pie Chart of Fraud Rate* : A visual representation showing the proportion of fraud transaction value compared to total transaction value.
@@ -50,6 +41,12 @@ This dataset is used to analyze spending patterns and segment customers into mea
 - *Transaction Behavior Bar Chart* : A comparison of transaction amounts across different card brands (Mastercard, Visa, Amex, and JCB).
 - *DTI Distribution Plot* : A visual comparison of Debt-to-Income ratios between retired and non-retired users or across credit score categories.
 - *Customer Segment Visualization* : A scatter plot or similar visual showing the three clusters formed based on transaction value and risk.
+
+## Key Insights
+- Customer segmentation reveals distinct behavioral patterns across transaction activity and spending.
+- A small segment of high-value customers contributes a significant portion of transaction volume.
+- Medium-value customers represent the largest growth opportunity for targeted marketing campaigns.
+- Segmentation enables the bank to design personalized loyalty programs and optimize credit product strategies.
 
 ## Author
 Venny Amilia Deslaweny
