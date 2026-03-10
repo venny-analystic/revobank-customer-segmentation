@@ -46,6 +46,16 @@ https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
 - *DTI Distribution Plot* : A visual comparison of Debt-to-Income ratios between retired and non-retired users or across credit score categories.
 - *Customer Segment Visualization* : A scatter plot or similar visual showing the three clusters formed based on transaction value and risk.
 
+## Key Visualizations
+### Elbow Method
+![Elbow Method](elbow_method.png)
+
+### Customer Segmentation Visualization
+![Customer Clusters](customer_clusters.png)
+
+### Average Spending by Cluster
+![Cluster Spending](cluster_spending.png)
+
 ## Key Insights
 - Customer segmentation reveals distinct behavioral patterns across transaction activity and spending.
 - A small segment of high-value customers contributes a significant portion of transaction volume.
