@@ -18,14 +18,13 @@ Segmentation revealed three distinct groups: Cluster 2 is the primary profit dri
 - Analyzed transaction distributions showing Mastercard and Visa dominate activity while identifying that over 75% of users had no fraud.
 
 ## SECTION 3: TOOLS & METHODS
-### A. Tools
+### A. Tools & Technologies
 - Python 
 - Pandas 
 - NumPy
 - Scikit-learn
 - Matplotlib
 - Google Colab 
-- Google Sheets
   
 ### B. Methods
 - Data Cleaning 
@@ -56,6 +55,23 @@ https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
 - *DTI Distribution Plot* : A visual comparison of Debt-to-Income ratios between retired and non-retired users or across credit score categories.
 - *Customer Segment Visualization* : A scatter plot or similar visual showing the three clusters formed based on transaction value and risk.
 
+## Project Workflow
+1. Data Cleaning  
+   - Removed expired credit cards  
+   - Handled missing values (5,052 records)
+2. Exploratory Data Analysis (EDA)  
+   - Transaction distribution analysis  
+   - Fraud rate analysis  
+   - Debt-to-Income ratio analysis
+3. Customer Segmentation  
+   - Standardized features using scaling
+   - Applied K-Means clustering
+   - Used Elbow Method to determine optimal clusters
+4. Visualization  
+   - Cluster scatter plots
+   - Credit risk distribution
+   - Spending pattern analysis
+
 ## Key Visualizations
 ### Elbow Method
 ![Elbow Method](elbow_method.png)
@@ -65,6 +81,14 @@ https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
 
 ### Average Spending by Cluster
 ![Cluster Spending](clusters_spending.png)
+
+## Model Used
+K-Means Clustering was applied to segment customers based on transaction behavior and financial indicators.
+The optimal number of clusters (k=3) was determined using the Elbow Method.
+Cluster Interpretation:
+- Cluster 2: High-value customers with high spending and low financial risk
+- Cluster 1: Medium-value customers with growth potential
+- Cluster 0: Low-value or higher-risk customers requiring monitoring
 
 ## Key Insights
 - Customer segmentation reveals distinct behavioral patterns across transaction activity and spending.
