@@ -47,11 +47,10 @@ https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
 - *Customer Segment Visualization* : A scatter plot or similar visual showing the three clusters formed based on transaction value and risk.
 
 ## Key Visualizations
-
 ### Elbow Method
 ![Elbow Method](elbow_method.png)
 
-### Customer Segmentation Visualization
+### Customer Segmentation
 ![Customer Clusters](customer_clusters.png)
 
 ### Average Spending by Cluster
