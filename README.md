@@ -48,14 +48,16 @@ https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
 
 ## Key Visualizations
 ### Elbow Method
+
 ![Elbow Method](elbow_method.png)
 
 ### Customer Segmentation Visualization
+
 ![Customer Clusters](customer_clusters.png)
 
 ### Average Spending by Cluster
-![Cluster Spending](cluster_spending.png)
 
+![Cluster Spending](clusters_spending.png)
 ## Key Insights
 - Customer segmentation reveals distinct behavioral patterns across transaction activity and spending.
 - A small segment of high-value customers contributes a significant portion of transaction volume.
