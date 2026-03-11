@@ -1,5 +1,5 @@
-# Revobank
-## Customer Segmentation Analysis
+# RevoBank Customer Segmentation Analysis
+Customer segmentation analysis using Python and K-Means clustering to identify high-value customers, growth opportunities, and risk segments for targeted marketing and credit risk management.
 
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
 ### Summary/Context
@@ -35,6 +35,16 @@ Segmentation revealed three distinct groups: Cluster 2 is the primary profit dri
 - K-Means Clustering 
 - Elbow Method 
 - Descriptive Statistics
+
+## Dataset
+This project uses transaction and user data including:
+- Customer ID
+- Transaction Amount
+- Credit Limit
+- Debt-to-Income Ratio (DTI)
+- Credit Card Brand
+- Fraud Indicator
+Dataset contains 6 months of transaction records used to analyze customer behavior and credit risk patterns.
 
 ### Dataset Source:
 https://colab.research.google.com/drive/16W4HMBOCzcr4FQkde9CDAhTRWKzSSQFC
